@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{6AFA2906-F066-4AA1-B1B1-44D0E696F04A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{C54C1458-ABE2-4EF9-863D-F178E8344B15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{6AFA2906-F066-4AA1-B1B1-44D0E696F04A}.Release|x64.Build.0 = Release|Any CPU
 		{6AFA2906-F066-4AA1-B1B1-44D0E696F04A}.Release|x86.ActiveCfg = Release|Any CPU
 		{6AFA2906-F066-4AA1-B1B1-44D0E696F04A}.Release|x86.Build.0 = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|x64.Build.0 = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Debug|x86.Build.0 = Debug|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|x64.ActiveCfg = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|x64.Build.0 = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|x86.ActiveCfg = Release|Any CPU
+		{C54C1458-ABE2-4EF9-863D-F178E8344B15}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

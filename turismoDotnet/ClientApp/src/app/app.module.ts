@@ -11,6 +11,7 @@ import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { RegistroComponent } from './Sitio/registro/registro.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ConsultarSitioComponent } from './Sitio/consultar-sitio/consultar-sitio.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { AppRoutingModule } from './app-routing.module';
     HomeComponent,
     CounterComponent,
     FetchDataComponent,
-    RegistroComponent
+    RegistroComponent,
+    ConsultarSitioComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
